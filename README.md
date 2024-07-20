@@ -8,9 +8,12 @@ Task Master is a simple and intuitive task management application built using HT
 - **Mark as Done:** Click on a task to mark it as done. The task will turn green to indicate completion.
 - **Remove Tasks:** Click the "Remove" button next to a task to delete it from the list.
 
-## Demo
+## Technologies Used
 
-![Task Master Demo](demo.gif)
+- **HTML:** Structure of the application
+- **CSS:** Styling of the application
+- **JavaScript:** Functionality of the application
+
 
 ## Getting Started
 
